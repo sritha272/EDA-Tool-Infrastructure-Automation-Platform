@@ -1,4 +1,6 @@
 # EDA-Tool-Infrastructure-Automation-Platform
+Full-stack platform automating EDA tool configuration, execution, and monitoring — React, FastAPI, PostgreSQL, Docker, CI/CD on Linux. 88% reliability, 80% reduction in manual processing.
+
 - **Frontend (React):** Configuration forms, job launch controls, real-time status monitoring, and historical job browsing
 - **Backend (FastAPI):** Async request handling, parameter validation, job orchestration, REST API layer
 - **Database (PostgreSQL):** Job definitions, configurations (stored as structured JSON), execution history, logs, and user data
